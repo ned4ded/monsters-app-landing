@@ -8,7 +8,7 @@ body {
   width: 100%;
   min-height: 100vh;
   background-color: black;
-  background-image: radial-gradient(circle at top center, #0a0f1e, #00000a 50%); }
+  background-image: radial-gradient(circle at top center, #0a0a0f, #05050a 50%); }
 
 .quote {
   border-left: 5px solid rgba(255, 255, 255, 0.4);
